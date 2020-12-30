@@ -163,7 +163,7 @@ const skillResponse = new SkillResponse(
   )
 )
 
-printTemplate(skillResponse);
+// printTemplate(skillResponse);
 // const testCard = {
 //   title: `{imageUrl}`,
 //   price: `{price}`
@@ -174,7 +174,7 @@ printTemplate(skillResponse);
 // console.log(Object.assign(testData, testCard));
 
 // printTemplate(basicCard);
-// printTemplate(simpleText);
+printTemplate(simpleText);
 // printTemplate(simpleImage);
 // printTemplate(commerceCard);
 // printTemplate(carouselBasicCard);

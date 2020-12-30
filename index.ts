@@ -1,1 +1,1 @@
-export * from './templates/kakao'
+export * from './templates'
