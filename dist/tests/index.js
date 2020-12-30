@@ -133,7 +133,7 @@ const testBasicCardList = kakao_1.createCarouselWithData(testBasicCard, testData
 const skillResponse = new kakao_1.SkillResponse(new kakao_1.Template([
     testBasicCardList
 ]));
-printTemplate(skillResponse);
+// printTemplate(skillResponse);
 // const testCard = {
 //   title: `{imageUrl}`,
 //   price: `{price}`
@@ -142,7 +142,7 @@ printTemplate(skillResponse);
 // console.log(JSON.stringify(testBasicCard));
 // console.log(Object.assign(testData, testCard));
 // printTemplate(basicCard);
-// printTemplate(simpleText);
+printTemplate(simpleText);
 // printTemplate(simpleImage);
 // printTemplate(commerceCard);
 // printTemplate(carouselBasicCard);
