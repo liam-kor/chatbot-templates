@@ -1,1 +1,1 @@
-export * as kakao from './templates/kakao';
+export * from './templates/kakao';
